@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Wulj-Cloud.iml" filepath="$PROJECT_DIR$/.idea/Wulj-Cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wulj-cloud-eureka-server/wulj-cloud-eureka-server.iml" filepath="$PROJECT_DIR$/wulj-cloud-eureka-server/wulj-cloud-eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wulj-cloud-eureka-server-consume/wulj-cloud-eureka-server-consume.iml" filepath="$PROJECT_DIR$/wulj-cloud-eureka-server-consume/wulj-cloud-eureka-server-consume.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wulj-cloud-eureka-server-upport/wulj-cloud-eureka-server-upport.iml" filepath="$PROJECT_DIR$/wulj-cloud-eureka-server-upport/wulj-cloud-eureka-server-upport.iml" />
+    </modules>
+  </component>
+</project>
