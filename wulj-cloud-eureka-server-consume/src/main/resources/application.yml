@@ -1,5 +1,5 @@
 server:
-  port: 8702 # 服务消费方
+  port: 8703 # 服务消费方
 
 # 指定当前eureka客户端的注册地址,
 eureka:
